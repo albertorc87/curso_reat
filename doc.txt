@@ -1,0 +1,10 @@
+# Create-react-app
+
+Instalación del comando para crear apps:
+npm install -g create-react-app
+
+Crear una app:
+create-react-app hello-react
+
+src/index.js 
+Es el archivo de entrada a nuestra app
